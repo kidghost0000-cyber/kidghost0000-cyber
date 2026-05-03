@@ -2,7 +2,28 @@
 
 **`Digital Craftsman`**
 
-I'm a software engineer, Linux distro hopper, Java apologist, and content creator at [ForrestKnight][youtube] (<!--SUBS-START-->693k<!--SUBS-END--> subscribers).
+I’m Kid, a developer with 6+ years of experience building high‑performance systems, custom frameworks, and immersive gameplay for FiveM.
+
+My journey started with curiosity — breaking apart GTA V mods just to understand how they worked.
+That curiosity turned into obsession.
+Obsession turned into skill.
+Skill turned into a career.
+
+Today, I specialize in:
+
+Custom QBCore & ESX development
+
+Full server ecosystems
+
+Anti‑cheat logic
+
+Backend systems
+
+UI/UX for in‑game menus
+
+Performance optimization down to 0.00ms
+
+I’m the dev people call when they want something clean, fast, and built right. (<!--SUBS-START-->693k<!--SUBS-END--> subscribers).
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
